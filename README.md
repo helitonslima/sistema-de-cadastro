@@ -4,6 +4,7 @@ Projeto criado para o curso https://cursos.alura.com.br/course/git-github-reposi
 
 Material 
 https://www.alura.com.br/artigos/escrever-bom-readme
+https://docs.github.com/pt/enterprise-server@3.2/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 > Status do projeto: Em desenvolvimento
 
